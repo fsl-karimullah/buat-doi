@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fsl-karimullah/doikuh.git/static/css/main.106d9175.chunk.css",
+    "main.js": "/fsl-karimullah/doikuh.git/static/js/main.9823aafa.chunk.js",
+    "main.js.map": "/fsl-karimullah/doikuh.git/static/js/main.9823aafa.chunk.js.map",
+    "runtime-main.js": "/fsl-karimullah/doikuh.git/static/js/runtime-main.e586cd88.js",
+    "runtime-main.js.map": "/fsl-karimullah/doikuh.git/static/js/runtime-main.e586cd88.js.map",
+    "static/js/2.c6e496fd.chunk.js": "/fsl-karimullah/doikuh.git/static/js/2.c6e496fd.chunk.js",
+    "static/js/2.c6e496fd.chunk.js.map": "/fsl-karimullah/doikuh.git/static/js/2.c6e496fd.chunk.js.map",
+    "static/js/3.b7ce7e58.chunk.js": "/fsl-karimullah/doikuh.git/static/js/3.b7ce7e58.chunk.js",
+    "static/js/3.b7ce7e58.chunk.js.map": "/fsl-karimullah/doikuh.git/static/js/3.b7ce7e58.chunk.js.map",
+    "index.html": "/fsl-karimullah/doikuh.git/index.html",
+    "static/css/main.106d9175.chunk.css.map": "/fsl-karimullah/doikuh.git/static/css/main.106d9175.chunk.css.map",
+    "static/js/2.c6e496fd.chunk.js.LICENSE.txt": "/fsl-karimullah/doikuh.git/static/js/2.c6e496fd.chunk.js.LICENSE.txt",
+    "static/media/elisa.cdb0b9cd.jpg": "/fsl-karimullah/doikuh.git/static/media/elisa.cdb0b9cd.jpg",
+    "static/media/App.css": "/fsl-karimullah/doikuh.git/static/media/lope.9c66db2e.jpg",
+    "static/media/paisal.01637f0d.jpg": "/fsl-karimullah/doikuh.git/static/media/paisal.01637f0d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e586cd88.js",
+    "static/js/2.c6e496fd.chunk.js",
+    "static/css/main.106d9175.chunk.css",
+    "static/js/main.9823aafa.chunk.js"
+  ]
+}
